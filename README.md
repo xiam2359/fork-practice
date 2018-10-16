@@ -8,22 +8,23 @@
 
 ---
 
-Make me a heading size 1
-Make me a heading size 3
+# Make me a heading size 1
+### Make me a heading size 3
 
 Put a line BELOW me!
+------
 
 
-
+----
 Put a line ABOVE me!
 
-Make
-these
-words
-into
-an
-unordered
-list
+- Make
+- these
+- words
+- into
+- an
+- unordered
+- list
 
 I want this to be a block of text
 that takes up three lines but on
